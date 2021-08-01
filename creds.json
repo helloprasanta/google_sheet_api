@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fresh-strategy-321605",
+  "private_key_id": "42451c71030404a6f4df40856760487a49ba36d8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjJXqGZ6cPITV8\nruid95Jt7OX6VV8Dbb7JVVwu3Rl8NNFC2VFZGw6WfpeYV6LKSKIAM62H+joc33/u\nn3bYYWn7N7GeNlFrEtVBycy2JcdKXzRdwLcU8VdMwwF++i6VFfJs6+/vgmOuk7go\nfvVMBwO8t8iqL0WMGlFUAIjc3ooLjSQdLY0wxVe/bRxV9A6giwP1VHnFqsnZXbuW\nnsOwpCZNNreMPNWRNZbfkv9rgdqsnZ1EVN0DSRgDKKUK8/Jeme+/mvcF9tQUJw1R\nD/KCwFNpO8umybTDvh/4i4q2OP8hd+BVpxOSM2H7YfRxxIfl1e/PI9FUj7nAotPX\n/GNwujEHAgMBAAECggEADDr2CXdhxbeWm+c81wLFPmpg/zhBLC+g+tTkWTsH+xC2\nk01ZVNW7bTrGQIxpTsLNKji1jJkMnDeBDrFzplr/J+8P6K1nwyAhTpJDP3BrlT63\n3UNiNja1dbK0vQEiVtjTWKkDTrA2qtK2HosN9oocFJyudVuf2hXq/OIhYHVqYd0v\nGhyaIXMHhdJrZnrDBt2NvNzxscG7pwpS7gzYvT4koER6rIeaeaIocjMQ1tulQgaf\nhj8JYV4+SimE3ksjvqQIu31ffzUtbfpPA0YbjzbgwQAGeLtsnzS6Y2zwG/Q7muiO\nCJDm8iaE4BT++9+F5Q8hG6lMZ0UiZ2LcQnOhLZ9fqQKBgQDcfmRtj5fYGRcI/Wsr\nVaIpSsospwUY0zsz2f6TGciwnndI9d24jQV/RoHw39F8ajdU5a4VTVqkrRGE5f7X\nNxsQWO5kCuvBX9Tk9ShCxgE25sV4UCYhSiIpM8/7duea58nSlY+WHhWDXDO+klKQ\nmgIFWWx5ZYQA+820CDz6h0KpJQKBgQC9awHNjxagEV3GmRYfZBlVgw9aRCRKErGd\n3NbcVAKz7b0/HiWjsyEHenQOtLlFu/h3Hb/c5aDvBDBKnv2mSl3RThMEOvFnQ/DF\nU3Uc1PQNqmMthYpWh446mnUICUP4kMs8iSy5D5Qmf2bzfurQPOyNuIw/d1QqwEkU\nfPS79PQnuwKBgQCXGWpbBk8JQNBfUcLSVIGnCGCZzu8YPxDQDLB/P+ke18loz0xc\n/w7oVHoRhl+5gdRfMnJkmLjoJs3do/tKorHCNx9OoYlD4Bc1u6cWczg71lM2ir5G\ni9XzJFV/vtEif3r3+5QFTKJzfYjcLMu12kRORCSo4F9giS5DFG4tROnynQKBgCcF\nbVioepO9ICFylhEfcOyh1D7XPNaZpUeNICJBmFDy0AK5ti1UEKDWxCPnbSeFgrkf\nQtBB6fZzWXN173EbbtpYiChd8C9C2s371Gt9H03VZRsSoJ4UzOMbwLJIHl2NjqDI\n7ZKuN+n6Yv4UjlEZy+2iMBo+/fLUq/lxiIVUABxTAoGAV7hy9F8qy3XMTgJ/qTnk\nYzblfcTHjZhwAmUmg9UKBF6+8OuBXTMN5/HZA/+gxR1PkLXdOryrk3/XrpHuwk4W\n7X9MWQLRYr16P0Qvn/WVYJRB0DxikExDvUaq54nb+Qa7KbjADMgKbsUihqAdbL46\nI9htdPy2XoOuMvMwWZA6Sms=\n-----END PRIVATE KEY-----\n",
+  "client_email": "prasanta@fresh-strategy-321605.iam.gserviceaccount.com",
+  "client_id": "113836773294734925363",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prasanta%40fresh-strategy-321605.iam.gserviceaccount.com"
+}
